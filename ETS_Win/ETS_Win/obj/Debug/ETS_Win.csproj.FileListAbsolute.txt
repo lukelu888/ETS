@@ -1,0 +1,15 @@
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.csproj.AssemblyReference.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\CGS_Win.Login.resources
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.Properties.Resources.resources
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.csproj.GenerateResource.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.csproj.CoreCompileInputs.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.ETSTelethon.resources
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\bin\Debug\ETS_Win.exe.config
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\bin\Debug\ETS_Win.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\bin\Debug\ETS_Win.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\bin\Debug\ETS_Lib.dll
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\bin\Debug\ETS_Lib.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Win\ETS_Win\obj\Debug\ETS_Win.csproj.CopyComplete

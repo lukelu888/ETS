@@ -1,0 +1,8 @@
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\bin\Debug\ETS_Con.exe.config
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\bin\Debug\ETS_Con.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\bin\Debug\ETS_Con.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\obj\Debug\ETS_Con.csproj.AssemblyReference.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\obj\Debug\ETS_Con.csproj.SuggestedBindingRedirects.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\obj\Debug\ETS_Con.csproj.CoreCompileInputs.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\obj\Debug\ETS_Con.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Con\ETS_Con\obj\Debug\ETS_Con.pdb

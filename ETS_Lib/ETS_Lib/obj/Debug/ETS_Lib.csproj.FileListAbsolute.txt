@@ -1,0 +1,6 @@
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Lib\ETS_Lib\bin\Debug\ETS_Lib.dll
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Lib\ETS_Lib\bin\Debug\ETS_Lib.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.csproj.AssemblyReference.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.csproj.CoreCompileInputs.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.dll
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lab\assign_1\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.pdb
